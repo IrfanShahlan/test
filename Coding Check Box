@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CHECKBOX FORM</title>
+</head>
+<body>
+	<form>
+		<p>kelengkapan volleyball</p>
+
+		<label for="lightblue" style="background-color: lightblue;">kasut</label>
+		<input type="checkbox" name="kelengkapan volleyball">
+
+		<br>
+
+		<label for="skyblue" style="background-color: skyblue;">bola</label>
+		<input type="checkbox" name="kelengkapan volleyball">
+
+		<br>
+		
+		<label for="blueviolet" style="background-color: blueviolet;">jersey team</label>
+		<input type="checkbox" name="kelengkapan volleyball">
+	</form>
+
+</body>
+</html>
